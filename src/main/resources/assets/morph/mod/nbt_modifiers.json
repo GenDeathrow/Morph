@@ -18,7 +18,12 @@
     "additionalNote2": "Please keep this list alphabetically sorted when you add your own mobs. Keep Minecraft classes as the bottom. Keep the examples at the top.",
     "additionalNote3": "You can also add compatibility for your own mod via the IMC system. Look in the Morph main class for documentation."
   },
-  
+  "com.setycz.chickens.entity.EntityChickensChicken"{
+	"Strength": "null",
+	"Growth": "null,
+	"Gain": "null",
+	"Analyzed": "null"
+  },
   "tropicraft.entities.hostile.land.SpiderAdult": {  
     "maxEggsToSpawn": "null"
   },
